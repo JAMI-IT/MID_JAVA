@@ -26,6 +26,7 @@ public class obj {
 
     public static void main(String[] args) {
         obj j = new obj(); // object
+        
         j.get();
         j.set(90);
         j.show();
