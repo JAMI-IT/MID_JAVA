@@ -14,7 +14,6 @@ public class Arrays {
     }
     for(int p=0;p<b.length;p++){
         System.out.println("hellob"+b[p]);
-        System.out.println("YES BRO");
     }
  
     }
